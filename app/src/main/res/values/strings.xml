@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MapBox</string>
+    <string name="key_public_mapbox">pk.eyJ1Ijoic2FudGlhZ29ydWVkYSIsImEiOiJjbDV1YTc1ZDMwbmV0M2JwNzJmaTU4NmQ5In0.k5scAoDbk4pUDdSsjI7rUA</string>
 </resources>
